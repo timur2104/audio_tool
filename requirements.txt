@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.13.0
+SpeechRecognition==3.10.3
+openai-whisper==20231117
+torch==2.2.2
